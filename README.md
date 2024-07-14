@@ -1,6 +1,3 @@
-Certainly! Here's a sample `README.md` file content for your project "BridgeTheGap: A Digital Solution to College Mental Health Challenges":
-
----
 
 ## BridgeTheGap: A Digital Solution to College Mental Health Challenges
 
