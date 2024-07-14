@@ -36,10 +36,19 @@ Our project proposes a comprehensive digital platform to address college mental 
   
 - **Proactive Communication**: Automatically sends reports, chatbot interactions, and journal entries to proctors for swift support of at-risk students.
 
+
+
+
 ## Key Features
 
+![Screenshot (200)](https://github.com/user-attachments/assets/55b449ab-0cc2-4192-82bb-c594be8c126a)
+
+
+ ![Screenshot (201)](https://github.com/user-attachments/assets/9d16f88f-335f-4b0b-814e-4b70bdf04eb4)
+
 1. **Real-time Mental Health Monitoring**: Facilitates continuous monitoring and timely interventions.
-  
+ 
+
 2. **Privacy and Anonymity**: Ensures students can share feelings anonymously, encouraging open expression.
   
 3. **Holistic Support Ecosystem**: Integrates sentiment analysis, AI companionship, and journaling for comprehensive student well-being.
