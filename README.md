@@ -24,6 +24,12 @@ The college mental health crisis is exacerbated by poor communication between st
 
 In college environments, the worsening mental health crisis is deeply rooted in inadequate communication between students and faculty. The lack of open dialogue poses a significant challenge in recognizing and addressing mental health issues promptly. This project aims to confront these challenges by introducing a solution that enhances communication and ensures timely support, creating a secure and supportive atmosphere for all college community members.
 
+## Use Case
+
+
+
+![Screenshot 2024-07-15 023454](https://github.com/user-attachments/assets/8629422d-06a8-4b17-b08b-aa5ebe98136a)
+
 ## Proposed Solution
 
 Our project proposes a comprehensive digital platform to address college mental health challenges:
