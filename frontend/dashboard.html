@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mental Health Support Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>We are here for you!!</h1>
+    </header>
+
+    <section class="dashboard-options">
+        <div class="option">
+            <h2>Chatbot</h2>
+            <p>Engage in a conversation with our supportive chatbot.</p>
+            <button id="chatbotButton">Start Chatbot</button>
+        </div>
+        
+        <div class="option">
+            <h2>Journal</h2>
+            <p>Reflect on your thoughts and emotions by maintaining a journal.</p>
+            <button id="journalButton">Start Journal</button>
+        </div>
+        
+        <div class="option">
+            <h2>Take Survey</h2>
+            <p>Participate in surveys to understand and improve your mental well-being.</p>
+            <button id="surveyButton">Start Survey</button>
+        </div>
+        
+        <div class="option">
+            <h2>Resources</h2>
+            <p>Access valuable resources to support your mental health journey.</p>
+            <button id="resourcesButton">View Resources</button>
+        </div>
+    </section>
+
+    <script>
+        document.getElementById('chatbotButton').addEventListener('click', function () {
+            // Redirect to the chatbot page when the Start Chatbot button is clicked
+            window.location.href = '/chatbot/index.html';
+        });
+
+        document.getElementById('journalButton').addEventListener('click', function () {
+            // Redirect to the journal page when the Start Journal button is clicked
+            window.location.href = '/journal';
+        });
+
+        document.getElementById('surveyButton').addEventListener('click', function () {
+            // Redirect to the survey page when the Start Survey button is clicked
+            window.location.href = 'http://localhost:8080';
+        });
+        document.getElementById('resourcesButton').addEventListener('click', function () {
+        // Redirect to the resources page when the View Resources button is clicked
+        window.location.href = '/resources/index.html';
+        });
+    </script>
+
+    <footer>
+        <p>&copy; 2023 Mental Health Support</p>
+    </footer>
+
+</body>
+
+</html>

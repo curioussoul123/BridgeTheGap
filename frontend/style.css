@@ -1,0 +1,102 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 2em;
+}
+
+.cta-section {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 2em;
+}
+
+.cta-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em 2em;
+    font-size: 1em;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.about-section, .services-section {
+    text-align: center;
+    padding: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 2em;
+    border: 1px solid #888;
+    max-width: 600px;
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: black;
+}
+.image-section {
+    text-align: center;
+    padding: 2em;
+    background-color: #ececec;
+}
+
+.image-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Optional: Add rounded corners to the image */
+}
+
+.image-container ul{
+    text-align: left;
+}

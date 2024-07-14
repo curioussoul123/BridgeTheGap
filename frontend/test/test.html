@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mental Health Survey</title>
+</head>
+<body>
+  <h1>Mental Health Survey</h1>
+  <form action="/submit-survey" method="post">
+    <label for="question1">Do you often feel anxious?</label><br>
+    <input type="radio" name="question1" value="yes" required> Yes
+    <input type="radio" name="question1" value="no"> No<br><br>
+
+    <label for="question2">Do you struggle to concentrate?</label><br>
+    <input type="radio" name="question2" value="yes" required> Yes
+    <input type="radio" name="question2" value="no"> No<br><br>
+
+    <!-- Add more questions as needed -->
+
+    <button type="submit">Submit Survey</button>
+  </form>
+</body>
+</html>
