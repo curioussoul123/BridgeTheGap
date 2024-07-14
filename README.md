@@ -2,10 +2,14 @@ Certainly! Here's a sample `README.md` file content for your project "BridgeTheG
 
 ---
 
-# BridgeTheGap: A Digital Solution to College Mental Health Challenges
+## BridgeTheGap: A Digital Solution to College Mental Health Challenges
 
 
 
+
+![Screenshot (197)](https://github.com/user-attachments/assets/b1f74659-e628-42ef-97b2-14af45aed0a0)
+
+![Screenshot (199)](https://github.com/user-attachments/assets/c64d8b99-c2c7-4287-a2ad-3997c363b527)
 
 
 ## Abstract
