@@ -17,11 +17,17 @@
 
 **BridgeTheGap** is a digital platform designed to address the mental health challenges faced by college students. The platform aims to enhance communication between students and faculty, ensuring that students' mental health issues are identified early and addressed effectively. By combining sentiment analysis, AI companionship, and proactive communication, BridgeTheGap provides a comprehensive solution to help students maintain their mental well-being.
 
+
+![dashboard](https://github.com/user-attachments/assets/7a058a6f-d121-403c-b5d0-c4ee825d27e5)
+
 ## Features
 
 - **Mental Health Evaluator:**
   - Analyzes students' anonymous submissions and categorizes them into three groups: Green (stable), Yellow (moderate concerns), and Red (urgent intervention required).
   - Generates a downloadable report for faculty to review.
+
+    ![report](https://github.com/user-attachments/assets/39919eff-2bb8-48ad-a5bf-23154ef3c7b3)
+
 
 - **Targeted Support for students with poor mental health:**
   - Provides curated resources and external support group information for students needing urgent intervention.
@@ -30,11 +36,15 @@
 - **AI Chatbot for Companionship:**
   - Offers real-time companionship and listens to students' concerns, acting as a virtual friend.
 
+    ![chatbot](https://github.com/user-attachments/assets/89cf592f-20e8-4dba-8e00-fe6a01768731)
+
+
 - **Journaling Feature:**
   - Allows students to document their progress, emotions and mental health journey, creating a personalized record.
 
 - **Proactive Communication:**
   - Automatically sends reports, chatbot interactions, and journal entries to the faculty’s email, enabling swift and targeted support.
+    
 
 ## Technology Stack
 
