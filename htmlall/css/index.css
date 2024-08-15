@@ -1,0 +1,138 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f9fb;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1, h2, p {
+    margin: 0 0 20px 0;
+}
+
+ul {
+    list-style: disc inside;
+    margin: 20px 0;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    border-bottom: 2px solid #fff;
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #e3f2fd;
+    background-image: linear-gradient(to right, #e3f2fd, #ffffff);
+    border-bottom: 4px solid #007bff;
+}
+
+header h1 {
+    font-size: 36px;
+    color: #007bff;
+}
+
+header p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Image Section Styles */
+.image-section {
+    padding: 40px 20px;
+    background-color: #f0f4f8;
+}
+
+.image-container {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.image-container p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #555;
+}
+
+.image-container ul {
+    text-align: left;
+    padding-left: 20px;
+    color: #555;
+}
+
+/* CTA Section Styles */
+.cta-section {
+    padding: 40px 20px;
+    background-color: #ffffff;
+    border-top: 4px solid #007bff;
+    text-align: center;
+}
+
+.cta-container h2 {
+    font-size: 28px;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.cta-container p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.cta-container button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cta-container button:hover {
+    background-color: #0056b3;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
+
+footer p {
+    margin: 0;
+}

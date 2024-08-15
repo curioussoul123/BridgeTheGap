@@ -1,0 +1,22 @@
+{
+  "name": "bridgethegap",
+  "version": "1.0.0",
+  "description": "Mental health support for college students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BridgeTheGap"
+  },
+  "author": "Shreya Arya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.14",
+    "path": "^0.12.7"
+  }
+}
